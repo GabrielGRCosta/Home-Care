@@ -1,0 +1,61 @@
+.card {
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .weekly {
+    background-color: #E0F2E9;
+  }
+  
+  .monthly {
+    background-color: #D2E8F8;
+  }
+  
+  .annual {
+    background-color: #F0E7FB;
+  }
+  
+  .custom {
+    background-color: #FDECD2;
+  }
+  
+  .card-icon {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .card-description {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  
+  .card-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: #4285F4;
+    color: #FFF;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .card-container {
+    height: 300px; /* Ajuste o valor da altura conforme necessário */
+  }
+
+  .card-description-fixed-height {
+    height: 100px; /* Ajuste o valor da altura conforme necessário */
+    overflow: hidden;
+  }
+  
+  
+  
